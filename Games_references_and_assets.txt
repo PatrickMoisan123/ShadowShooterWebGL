@@ -1,0 +1,42 @@
+
+
+https://www.youtube.com/watch?v=JivuXdrIHK0&ab_channel=Brackeys
+
+https://www.youtube.com/watch?v=4HpC--2iowE&ab_channel=Brackeys
+
+https://www.youtube.com/watch?v=WGn1zvLSndk&ab_channel=RosscoeTutorials
+
+https://www.youtube.com/watch?v=CLSiRf_OrBk
+
+https://www.youtube.com/watch?v=UvDqnbjEEak&ab_channel=Fui
+
+https://www.youtube.com/watch?v=zc8ac_qUXQY&t=155s&ab_channel=Brackeys
+
+https://www.youtube.com/watch?v=UjkSFoLxesw
+
+https://www.youtube.com/watch?v=BIiTKwHyD9s
+
+Assets
+https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+
+https://assetstore.unity.com/packages/3d/characters/creatures/rpg-monster-partners-pbr-polyart-168251
+
+
+Eoin
+Attempted the code for the player movement script
+Attempted the code for the AI script
+attempted the code for the enemies spawning script
+Attempted the code for the PlayerStats script
+Attempted the code for the PowerUp script
+
+
+Paddy
+Designed the game on unity on his laptop
+Got the assets from assests store for the game
+Fixed the Errors in the code if there was any errors
+Did the menu for the start of game and when game is paused
+fixed the code for the PowerUp script
+fixed the code for the AI script
+fixed errors in code for the AI script
+Attempted the code for the HeartAnimation script
+Attempted the code for the HealthBar script
